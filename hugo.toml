@@ -42,6 +42,10 @@ paginate     = 10
     name       = "About"
     url        = "/about"
   [[menu.main]]
+    identifier = "resume"
+    name       = "CV"
+    url        = "/resume"
+  [[menu.main]]
     identifier = "blog"
     name       = "Blog"
     url        = "/posts"
